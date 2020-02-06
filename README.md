@@ -1,2 +1,2 @@
 # Alarm-App
-A simple alarm application i Android.
+A simple alarm application in Android.
